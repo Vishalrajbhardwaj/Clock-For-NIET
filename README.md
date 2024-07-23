@@ -1,2 +1,3 @@
 # Clock
-<a herf="https://vishalrajbhardwaj.github.io/Clock-For-NIET/" Target="  ">LIVE DEMO</a> 
+Clock For NIET
+<a href="https://vishalrajbhardwaj.github.io/Clock-For-NIET/" target="_blank">LIVE DEMO</a>
